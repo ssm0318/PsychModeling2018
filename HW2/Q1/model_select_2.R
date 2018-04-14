@@ -1,16 +1,9 @@
 #######################################################
-## Parm_Estm_2.R                                     ##
-## PSYCH 7695, Spring 2017                           ##
-## Maximum Likelihood Estimation (Myung, JMP, 2003)  ##
-## By Yun Tang, Psychology, OSU                      ##
+## model_select_2.R                                  ##
+## By JaeWon Kim, SNU                                ##
 ##                                                   ##
-## Main Program                                      ##
-## Code Written on 12/18/2009                        ##
-##                                                   ##
-## Modified by Joonsuk Park on Jan 28 2015           ##
-## Modified by Jay Myung in Feb 2017                 ##
-## Modified by Woo-Young Ahn in March 2018           ##
-## Modified by JaeWon Kim in March 2018              ##
+## Model Selection (AIC/BIC)                         ##
+## Code Written on 04/04/2018                        ##
 #######################################################
 
 # Goals of Modification: minimizing rewrite of functions / unnecessary variables

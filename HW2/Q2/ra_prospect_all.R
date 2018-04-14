@@ -1,3 +1,11 @@
+#######################################################
+## ra_prospect_all.R                                 ##
+## By JaeWon Kim, SNU                                ##
+##                                                   ##
+## Risk Aversion - Three Params                      ##
+## Code Written on 04/04/2018                        ##
+#######################################################
+
 rm(list=ls())  # clear workspace
 graphics.off() # close all figures
 options(warn=-1) # turn off warnings

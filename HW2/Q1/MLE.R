@@ -9,6 +9,7 @@
 ## Modified by Joonsuk Park on Jan 28 2015           ##
 ## Modified by Jay Myung in Feb 2017                 ##
 ## Modified by Woo-Young Ahn in March 2018           ##
+## Modified by JaeWon Kim in April 2018              ##
 #######################################################
 
 mle_pow1 <- function(param, int=t_int, n=n_total, x=n_corr)  {
